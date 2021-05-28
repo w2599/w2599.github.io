@@ -1,0 +1,10 @@
+Windows Registry Editor Version 5.00
+[HKEY_CLASSES_ROOT\discordurl]
+@="URL:discordurl Protocol Handler"
+"URL Protocol"=""
+[HKEY_CLASSES_ROOT\discordurl\DefaultIcon]
+@="\"C:\\Users\\Administrator\\AppData\\Local\\Discord\\Update.exe\" --processStart Discord.exe"
+[HKEY_CLASSES_ROOT\discordurl\shell]
+[HKEY_CLASSES_ROOT\discordurl\shell\open]
+[HKEY_CLASSES_ROOT\discordurl\shell\open\command]
+@="\"C:\\Users\\Administrator\\AppData\\Local\\Discord\\Update.exe\" --processStart Discord.exe \"%1\""
