@@ -1,0 +1,150 @@
+Package: com.itaysoft.wifilist
+Version: 1.1.0
+Architecture: iphoneos-arm
+Maintainer: Itay
+Installed-Size: 1128
+Filename: debs/com.itaysoft.wifilist_1.1.0.deb
+Size: 913518
+MD5sum: 1d179a6265194770f3251f9730ea8bfd
+SHA1: fae5578caab92135ae9f70800d4b35c8ea7d660e
+SHA256: fcb38a1839c45ba2ddd86fd506479b99f0bf10c7949244eae3cf72f0d54e4f6b
+Section: Utilities
+Description: View and share WiFi passwords
+Author: Itay
+Depiction: https://www.icaughtuapp.com/repo/depictions/web/?p=com.itaysoft.wifilist
+Icon: https://www.icaughtuapp.com/repo/icons/com.itaysoft.wifilist.png
+Name: WiFi List
+Sileodepiction: https://www.icaughtuapp.com/repo/depictions/native/com.itaysoft.wifilist/depiction.json
+
+Package: com.julioverne.ntspeed
+Version: 0.2~beta9-6
+Architecture: iphoneos-arm
+Maintainer: Julio
+Depends: firmware (>= 6.0), mobilesubstrate
+Filename: debs/ntspeed_0.2~beta9-6.deb
+Size: 48470
+MD5sum: 767b1dbff4bbbd4fca36666bf117e9e4
+SHA1: df72563db4b182ef79cda942d337069b4e21dd00
+SHA256: 9c94ba33a53be4c4f2bec6c3cebc1ca35d7cafac09f875c6078ccd943d8cb38a
+Section: Tweaks
+Homepage: http://twitter.com/ijulioverne
+Description: See Active Traffic Network Speed
+Author: julioverne
+Depiction: http://julioverne.github.io/description.html?id=com.julioverne.ntspeed
+Icon: file:///Library/PreferenceBundles/NtSpeedSettings.bundle/icon@2x.png
+Name: NtSpeed
+
+Package: mterminal
+Version: 1.5-2
+Architecture: iphoneos-arm
+Maintainer: Hayden Seay <me@diatr.us>
+Depends: coreutils, firmware (>= 11.0)
+Conflicts: com.officialscheduler.mterminal
+Filename: debs/mterminal_1.5-2_iphoneos-arm.deb
+Size: 98116
+MD5sum: 243b8ff7f7157a98d5f2b97737dd7767
+SHA1: 394def661a65018ca543c7e53a91cb0250de4d80
+SHA256: c1a00cac7a05c9c2aeb84d66819813f9a0033144183314405572162788c37460
+Section: Utilities
+Priority: standard
+Description: A MobileTerminal fork
+Author: lordscotland
+Depiction: https://moreinfo.thebigboss.org/moreinfo/depiction.php?file=mterminalDp
+Name: MTerminal
+
+Package: z.biqunoad
+Version: 1.2.9
+Architecture: iphoneos-arm
+Maintainer: 真皮
+Installed-Size: 152
+Depends: mobilesubstrate
+Filename: debs/z.biqunoad_1.2.9_iphoneos-arm.deb
+Size: 4136
+MD5sum: 56e1fac15138848cebe9c1a5eeca5966
+SHA1: 23062a8aa96f0f058bdbe24b9fb6af6f75316c06
+SHA256: ccbf7d6234a1253093d74c60878069a03e275811659665481cb23d37206147fd
+Section: Tweaks
+Description: 笔趣阁1.2.5去广告~
+Author: 真皮
+Icon: file:///Applications/Cydia.app/Sections/Messaging.png
+Name: biquNoAds
+
+Package: z.fengapp
+Version: 685.21
+Architecture: iphoneos-arm
+Maintainer: z
+Installed-Size: 152
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/z.fengapp_685.21_iphoneos-arm.deb
+Size: 4804
+MD5sum: 597e5352f2d76cf9bc49f2e206b710a3
+SHA1: 36674908d82f7882b76d1b806f1852b702d6deee
+SHA256: 1b46c8210ad1a2bed8026424320abb2f5aa5e5215e30b213fd6203b7c8d94ed5
+Section: Tweaks
+Description: 威锋去广告6.8.51自用!
+Author: z
+Name: 威锋NoAds
+
+Package: z.newrc
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: 真皮
+Filename: debs/z.newrc_1.1_iphoneos-arm.deb
+Size: 3934
+MD5sum: 5753c839bf15b9a04fb77e204b89212e
+SHA1: 6ed12d2a65d647a4e5d6538bc55f10e51ff8f0f8
+SHA256: ae3968e05aed6898771ef5e4e49b13d693a76422fd36c7bce93484fa4aadc74b
+Section: Tweaks
+Description: 重启越狱后运行/etc/newrc自定义脚本~
+Author: 真皮
+Name: newrc
+
+Package: z.tweakzlite2
+Version: 2.3.1
+Architecture: iphoneos-arm
+Maintainer: z
+Installed-Size: 152
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/z.tweakzlite2_2.3.1_iphoneos-arm.deb
+Size: 3690
+MD5sum: 2f605bdf192347cd3d8f8cf6999f7f65
+SHA1: 99f47fc2351c16591db53633b41f5c6bf210b343
+SHA256: a5d75a5d0a627ebace428c7a892fb5276a8071bf412808fc2f0004996ecb9c95
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: z
+Name: tweakZlite2
+
+Package: z.zfbstep
+Version: 1.2.1
+Architecture: iphoneos-arm
+Maintainer: 真皮
+Installed-Size: 152
+Depends: mobilesubstrate
+Filename: debs/z.zfbstep_1.2.1_iphoneos-arm.deb
+Size: 3804
+MD5sum: 728b410d233a1cf13b197fcd5b45164d
+SHA1: d1f37d106b621bf02dac225241af7c64c2975ae5
+SHA256: 1f663aebc02fbfefd86afdae59661631be57da5f21002efb49335e61b0cc9465
+Section: Tweaks
+Description: 正常步数基础上增加（20000-26666）范围随机~
+Author: 真皮
+Icon: file:///Applications/Cydia.app/Sections/Messaging.png
+Name: 支付宝步数
+
+Package: z.zhsnoads
+Version: 2.1
+Architecture: iphoneos-arm
+Maintainer: z
+Installed-Size: 152
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/z.zhsnoads_2.1_iphoneos-arm.deb
+Size: 3632
+MD5sum: f1dacb8f6c1357f525bc97e18e7e687e
+SHA1: 7eee454ed361fbbf6478c815f105540f89174a9a
+SHA256: b4308bc076673b6d4c97cf887d00d847c95a1bc09d62cb4cffbfdf745e7a8dad
+Section: Tweaks
+Description: 智慧树去广告自用!
+Author: z
+Name: 智慧树NoAds
+
